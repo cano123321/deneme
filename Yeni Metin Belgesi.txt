@@ -1,0 +1,2 @@
+print("ben pro")
+dosya kaşarlı tost
